@@ -35,7 +35,7 @@
 //     } while (true);
 
 
-/////////CON FUNCION
+/////////////CON FUNCION
 
 function ingresarUsuario() {
   let ingresoNombre = prompt("Ingrese su Nombre");
